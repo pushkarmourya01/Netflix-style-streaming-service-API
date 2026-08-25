@@ -1,0 +1,28 @@
+# Build output
+target/
+out/
+
+# IDE / editor
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Package artifacts (none here, kept for safety)
+*.jar
+*.war
+
+# Local interview notes - not for repository
+NOTES.md
